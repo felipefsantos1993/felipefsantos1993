@@ -13,7 +13,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ## 🧰 Tecnologias & Ferramentas
 
 <p>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Azure" src="[https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white](https://skillicons.dev/icons?i=all)" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-F16E1C?style=for-the-badge&logo=databricks&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
