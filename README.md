@@ -1,12 +1,6 @@
 # 👋 Olá! Eu sou Felipe
+
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
-
----
-
-## 📊 GitHub Stats & Atividades
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
-</p>
 
 ---
 
@@ -46,6 +40,13 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ✨ Análises avançadas com PySpark  
 ✨ Dashboards interativos Power BI  
 ✨ Automação e integração via APIs
+
+---
+
+## 📊 GitHub Stats & Atividades
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
+</p>
 
 ---
 
