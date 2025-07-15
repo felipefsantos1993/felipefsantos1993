@@ -51,8 +51,8 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO/)
-- 📧 email@exemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ffs-data-eng/)
+- 📧 felipefsantos.93@gmail.com
 
 ---
 
