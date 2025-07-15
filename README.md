@@ -11,7 +11,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
