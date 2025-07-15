@@ -56,7 +56,7 @@ Tenho paixão por tecnologia e estou sempre em busca de novas formas de extrair 
 ## 🌐 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/ffs-data-eng/)
-- Email: felipefsantos.93@gmail.com
+- felipefsantos.93@gmail.com
 
 ---
 
