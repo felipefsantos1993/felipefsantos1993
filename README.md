@@ -58,7 +58,6 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  </a>
 </p>
 
 ---
