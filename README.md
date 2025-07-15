@@ -12,15 +12,15 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ## 🧰 Tecnologias & Ferramentas
 
-<p align="center">
-  <img alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure_Logo.svg" width="60" height="60" style="margin:0 10px" />
-  <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="60" style="margin:0 10px" />
-  <img alt="Databricks" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Databricks_logo.svg" width="80" height="60" style="margin:0 10px" />
-  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" style="margin:0 10px" />
-  <img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60" height="60" style="margin:0 10px" />
-  <img alt="Apache Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" height="60" style="margin:0 10px" />
-  <img alt="Apache Airflow" src="https://airflow.apache.org/_images/pin_large.png" width="60" height="60" style="margin:0 10px" />
-  <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" width="60" height="60" style="margin:0 10px" />
+<p>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-F16E1C?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-powerbi&logoColor=black" />
 </p>
 
 ---
