@@ -1,61 +1,65 @@
-<h1 align="center">👋 Olá! Eu sou o Felipe, Engenheiro de Dados</h1>
+# 👋 Olá! Eu sou [Felipe]  
 
-<p align="center">
-  Apaixonado por transformar dados em valor 💡  
-  <br>
-  🚀 Especialista em soluções escaláveis na nuvem
-</p>
+🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre Mim
 
-- 🎯 Engenheiro de Dados focado em performance e escalabilidade  
-- ☁️ Experiência em arquiteturas na **Azure** e **AWS**
-- 🛠️ Expertise com **Spark**, **Databricks**, **Airflow** e **SQL**
-- 🐍 Desenvolvedor Python para automações, ETL/ELT e integrações
-- 📊 Defensor de dados limpos, pipelines eficientes e boas práticas
+Sou um Engenheiro de Dados com sólida experiência na construção de pipelines de dados escaláveis, arquiteturas modernas em nuvem e soluções de análise de dados ponta a ponta. Tenho atuado em projetos que envolvem ingestão, processamento, armazenamento e visualização de dados, sempre com foco em performance, segurança e governança.
+
+Tenho paixão por tecnologia e estou sempre em busca de novas formas de extrair insights valiosos dos dados.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🧰 Principais Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-</div>
+- ☁️ **Cloud**:  
+  - Azure (Data Factory, Synapse, Event Hub, Storage, Key Vault)  
+  - AWS (S3, Glue, Lambda, Athena)
 
----
+- 🧠 **Processamento e Orquestração**:  
+  - Apache Spark (PySpark)  
+  - Databricks  
+  - Apache Airflow
 
-## 📈 GitHub Stats
+- 🐍 **Linguagens**:  
+  - Python  
+  - SQL  
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+- 📊 **Visualização e BI**:  
+  - Power BI  
+  - Dashboards interativos conectados a múltiplas fontes de dados
 
 ---
 
-## 🌱 Atualmente aprendendo
+## 📚 Certificações
 
-- 🔍 Data Governance & Data Quality
-- 🧠 Machine Learning para análise preditiva
-- 🧪 Neo4j e bancos de dados orientados a grafos
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ffs-data-eng/)
-- 📧 felipefsantos.93@gmail.com
+- 📄 **Databricks Lakehouse Fundamentals Accreditation**  
+  - Emissor: Databricks  
+  - Verificada: ✅
 
 ---
 
-_Obrigado por visitar meu perfil!_
+## 📈 O que você vai encontrar por aqui
 
+🔧 Projetos práticos com foco em:
 
+- Pipelines de dados modernos com Spark e Airflow  
+- Processos de ETL/ELT com Azure e AWS  
+- Notebooks com análises e transformações avançadas em PySpark  
+- Dashboards Power BI conectando dados em tempo real  
+- Scripts de automação e integração com APIs  
+
+---
+
+## 🌐 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/ffs-data-eng/)
+- Email: felipefsantos.93@gmail.com
+
+---
+
+💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
+
+---
