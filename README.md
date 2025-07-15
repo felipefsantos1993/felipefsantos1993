@@ -16,7 +16,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-F16E1C?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
