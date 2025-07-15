@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats & Atividades
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
 </p>
 
 ---
