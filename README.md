@@ -11,7 +11,8 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/1dce11c2-2f35-4ed8-83f2-ffb426ee0f14" />
+
 
 ---
 
