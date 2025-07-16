@@ -5,52 +5,7 @@
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
 
 <img width="1536" height="1024" alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" />
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Data Pipeline Animation</title>
-  <style>
-    body {
-      background: #fff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
 
-    .pipeline-container {
-      position: relative;
-      width: 800px;
-    }
-
-    .pipeline-img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-
-    .dot {
-      position: absolute;
-      width: 10px;
-      height: 10px;
-      background: #1e88e5;
-      border-radius: 50%;
-      top: 180px; /* Ajuste dependendo do caminho da imagem */
-      animation: move 4s linear infinite;
-      opacity: 0.8;
-    }
-
-    @keyframes move {
-      0% { left: 0px; transform: scale(1); }
-      100% { left: 780px; transform: scale(0.8); }
-    }
-
-    /* Múltiplas bolhas com delays diferentes */
-    .dot:nth-child(2) { animation-delay: 0s; }
-    .dot:nth-child(3) { animation-delay: 1s; }
-    .dot:nth-child(4) { animation-delay: 2s; }
-    .dot:nth-child(5) { animation-delay: 3s; }
   </style>
 </head>
 <body>
