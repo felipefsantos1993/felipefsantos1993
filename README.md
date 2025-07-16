@@ -10,8 +10,7 @@
 
 Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
 
-<img alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" width="500" height="500" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" height="500" />
-<img width="480" height="360" alt="467124782-4d65ff0a-d648-4c3a-8f59-be3f77304e8c (1)" src="https://github.com/user-attachments/assets/0f6dc4a9-6000-49e0-ac92-03207b515aed" />
+<img width="480" height="360" alt="467124782-4d65ff0a-d648-4c3a-8f59-be3f77304e8c (1)" src="https://github.com/user-attachments/assets/0f6dc4a9-6000-49e0-ac92-03207b515aed" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" />
 
 ---
 
