@@ -45,7 +45,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ## 📊 GitHub Stats & Atividades
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipefsantos1993&show_icons=true&theme=tokyonight)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipefsantos1993&show_icons=true&theme=transparent)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
