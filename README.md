@@ -20,7 +20,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 📜 Certificação
+## 📜 Certificações Conquistadas Até o Momento...
 
 <p>
   <a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
@@ -51,14 +51,14 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 <p>
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="48" height="48" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="animation"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" alt="animation"/>
 </p>
 
 > 💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
