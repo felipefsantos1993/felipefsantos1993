@@ -4,7 +4,7 @@
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
 
-<img width="1000" height="488" alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" />
+<img width="500" height="488" alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" />
 
 ---
 
