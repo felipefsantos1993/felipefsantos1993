@@ -1,6 +1,12 @@
 ---
 
 # 👋 Olá! Eu sou Felipe
+<svg viewBox="0 0 500 100">
+  <text x="0" y="50" font-size="20" fill="#00BFFF">
+    <animate attributeName="x" from="0" to="400" dur="6s" repeatCount="indefinite" />
+    Ingest → Transform → Store → Analyze → Visualize 🚀
+  </text>
+</svg>
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
 
