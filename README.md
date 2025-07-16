@@ -2,9 +2,7 @@
 
 # 👋 Olá! Eu sou Felipe
 
-![Data Pipeline Animation](https://github.com/felipefsantos1993/felipefsantos1993/blob/main/assets/pipeline.gif)
-![Cloud Data Animation](https://github.com/felipefsantos1993/felipefsantos1993/assets/cloud-data.gif)
-
+![Tech Stack]([https://raw.githubusercontent.com/felipefsantos1993/felipefsantos1993/main/assets/stack-animated.gif](https://github.com/user-attachments/assets/d8ce5ee6-6dd1-4497-a5f9-b7dcdecdf4f3))
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
 
