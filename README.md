@@ -11,7 +11,7 @@
 Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
 
 <img width="500" height="488" alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" />
-![GitHub followers](https://img.shields.io/github/followers/felipefsantos1993?style=social)
+<img width="500" height="488" alt="pipeline-sem-texto" src="https://img.shields.io/github/followers/felipefsantos1993?style=social" />
 
 ---
 
