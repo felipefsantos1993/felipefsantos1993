@@ -20,7 +20,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 <img width="48" height="48" alt="transferir" src="https://github.com/user-attachments/assets/1633173b-710e-4b95-896c-ccf0a672e130" />
 
-<img width="48" height="48" alt="images (2)" src="https://github.com/user-attachments/assets/2b24eafc-124d-4b03-8f76-b717bc495508" />
+<img width="48" height="25" alt="images (2)" src="https://github.com/user-attachments/assets/2b24eafc-124d-4b03-8f76-b717bc495508" />
 
 ---
 
