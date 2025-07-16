@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Felipe
 
-🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor** <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor** <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 ---
 
