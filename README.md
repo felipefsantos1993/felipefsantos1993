@@ -1,4 +1,4 @@
--
+------
 
 # 👋 Olá! Eu sou Felipe
 
@@ -67,4 +67,4 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 > 💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
 
--
+------
