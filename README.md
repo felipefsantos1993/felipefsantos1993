@@ -1,6 +1,6 @@
 ---
 
-# 👋 Olá! Eu sou Felipe
+# 👋 Olá! Eu sou Felipe.
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas de Dados | Apaixonado por Transformar Dados em Valor**
 
