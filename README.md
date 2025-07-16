@@ -1,7 +1,7 @@
 ---
 
 # 👋 Olá! Eu sou Felipe
-🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
+🎯 **Engenheiro de Dados | Especialista em Arquiteturas de Dados | Apaixonado por Transformar Dados em Valor**
 
 ---
 
