@@ -14,7 +14,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ## 🧰 Tecnologias & Ferramentas
 
-<img width="48" height="48" alt="icons8-azure-48" src="https://github.com/user-attachments/assets/9811fcac-db6f-41a9-b351-2b34d4b34234" />
+<img width="48" height="48" alt="icons8-azure-48" src="https://github.com/user-attachments/assets/3c6121d0-198c-4314-ae17-91ccdde84392" />
 
 <img width="48" height="48" alt="icons8-azure-48" src="https://github.com/user-attachments/assets/bed05ca1-3bc2-4b09-b1d2-52683f57f2d9" />
 
