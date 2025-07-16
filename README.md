@@ -3,6 +3,7 @@
 # 👋 Olá! Eu sou Felipe
 
 ![Data Pipeline Animation](https://github.com/felipefsantos1993/felipefsantos1993/blob/main/assets/pipeline.gif)
+![Cloud Data Animation](https://github.com/felipefsantos1993/felipefsantos1993/assets/cloud-data.gif)
 
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
