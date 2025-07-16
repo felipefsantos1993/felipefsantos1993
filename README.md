@@ -47,7 +47,9 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Build+Data+Pipelines;Automate+Everything;Monitor+Smartly;Learn+Every+Day+🚀" alt="Typing SVG" /> </p> ```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felipefsantos1993&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
