@@ -1,3 +1,5 @@
+---
+
 # 👋 Olá! Eu sou Felipe
 
 🎯 **Engenheiro de Dados | Especialista em Arquiteturas na Nuvem | Apaixonado por Transformar Dados em Valor**
@@ -21,7 +23,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ---
 
 ## 📜 Certificações Conquistadas Até o Momento... <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" alt="animation"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80" alt="animation"/>
 </p>
 
 <p>
@@ -58,10 +60,6 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" alt="animation"/>
-</p>
 
 > 💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
 
