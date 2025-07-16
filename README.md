@@ -20,7 +20,9 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 📜 Certificações Conquistadas Até o Momento...
+## 📜 Certificações Conquistadas Até o Momento... <p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" alt="animation"/>
+</p>
 
 <p>
   <a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
