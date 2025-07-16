@@ -12,8 +12,6 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 <img alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" width="500" height="500" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" />
 
-<img width="500" height="500" alt="467124782-4d65ff0a-d648-4c3a-8f59-be3f77304e8c" src="https://github.com/user-attachments/assets/8853dd17-93bd-4dd5-a05a-a3530d55c2ca" /> <img src="https://github.com/user-attachments/assets/ed18366c-898b-48de-9de9-336d2729e9ae" width="500" height="500" />
-
 ---
 
 ## 🧰 Tecnologias & Ferramentas
