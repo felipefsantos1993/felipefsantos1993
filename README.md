@@ -13,6 +13,9 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 <img width="500" height="488" alt="pipeline-sem-texto" src="https://github.com/user-attachments/assets/4d65ff0a-d648-4c3a-8f59-be3f77304e8c" />
 <img width="500" height="488" alt="pipeline-sem-texto" src="https://img.shields.io/github/followers/felipefsantos1993?style=social" />
 
+![Tech Stack](https://raw.githubusercontent.com/felipefsantos1993/felipefsantos1993/main/assets/stack-animated.gif)
+
+
 ---
 
 ## 🧰 Tecnologias & Ferramentas
