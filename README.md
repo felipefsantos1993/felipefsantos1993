@@ -16,12 +16,8 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-<img width="48" height="48" alt="icons8-azure-48" src="https://github.com/user-attachments/assets/bed05ca1-3bc2-4b09-b1d2-52683f57f2d9" />
-
-<img width="48" height="48" alt="transferir" src="https://github.com/user-attachments/assets/1633173b-710e-4b95-896c-ccf0a672e130" />
-
-<img width="48" height="25" alt="images (2)" src="https://github.com/user-attachments/assets/2b24eafc-124d-4b03-8f76-b717bc495508" />
-
+<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+          
 ---
 
 ## 📜 Certificações Conquistadas Até o Momento... <p align="center">
