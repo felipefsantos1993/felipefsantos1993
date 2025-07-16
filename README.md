@@ -24,7 +24,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 <p>
   <a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
-  <img alt="Databricks Fundamentals" src="https://img.shields.io/badge/Databricks_Lakehouse_Fundamentals-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img width="48" height="48" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/6cfc9ba7-563e-4a27-ae38-0000dc071b10" />
   </a>
 </p>
 
