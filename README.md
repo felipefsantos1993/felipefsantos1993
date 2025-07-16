@@ -1,4 +1,4 @@
-------
+---
 
 # 👋 Olá! Eu sou Felipe
 
@@ -43,14 +43,13 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 ---
 
 ## 📊 GitHub Stats & Atividades
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=felipefsantos1993&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
 </p>
 
 ---
@@ -67,4 +66,4 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 > 💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
 
-------
+---
