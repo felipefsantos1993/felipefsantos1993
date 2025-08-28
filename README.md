@@ -2,11 +2,11 @@
 
 # 👋 Olá! Eu sou Felipe.
 
-🎯 **Engenheiro de Dados | Especialista em Arquiteturas de Dados | Apaixonado por Transformar Dados em Valor**
+**Apaixonado por Transformar Dados em Valor**
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
 
