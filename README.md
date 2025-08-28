@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre Mim
+### Sobre Mim
 
 Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
 
@@ -14,7 +14,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> <img width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> <img width="48" height="48" alt="databricks-icon-logo-png_seeklogo-611588 (1)" src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="48" height="48" alt="mongo (1)" src="https://github.com/user-attachments/assets/0421c7f6-aadf-4bab-b565-eb3fbb1e9c01" />
 
@@ -23,7 +23,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 📜 Certificações Conquistadas Até o Momento... <p align="center">
+### Certificações Conquistadas Até o Momento... <p align="center">
 
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80" alt="animation"/>
 </p>
@@ -36,7 +36,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 📈 Projetos & Conteúdos
+### Projetos & Conteúdos
 
 ✨ Pipelines de dados com Spark e Airflow  
 ✨ Processos ETL/ELT na Azure e AWS  
@@ -46,7 +46,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 📊 GitHub Stats & Atividades
+### GitHub Stats & Atividades
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipefsantos1993&show_icons=true&theme=transparent)
 
@@ -58,7 +58,7 @@ Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arqu
 
 ---
 
-## 🌐 Vamos nos conectar?
+### Vamos nos conectar?
 
 <p>
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
