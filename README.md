@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
+#### Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" />
 
