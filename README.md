@@ -8,7 +8,7 @@
 
 ### Sobre Mim
 
-#### "Olá, meu nome é Felipe e sou Engenheiro de Dados com experiência em construção de pipelines, modelagem de dados e soluções de big data. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e abordagens para tornar os dados mais acessíveis e estratégicos para as empresas.
+"Olá, meu nome é Felipe e sou Engenheiro de Dados com experiência em construção de pipelines, modelagem de dados e soluções de big data. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e abordagens para tornar os dados mais acessíveis e estratégicos para as empresas.
 
 Tenho experiência com Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, Power BI, e gosto de estudar e testar soluções modernas, como arquiteturas serverless, data lakes e machine learning pipelines. Meu objetivo é transformar dados complexos em insights acionáveis, garantindo qualidade, escalabilidade e inovação em todos os projetos que participo.
 
