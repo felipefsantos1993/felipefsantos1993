@@ -8,7 +8,11 @@
 
 ### Sobre Mim
 
-#### Sou um Engenheiro de Dados apaixonado por construir pipelines escaláveis e arquiteturas modernas em nuvem. Trabalho com ferramentas e tecnologias para transformar dados brutos em insights estratégicos e acessíveis.
+#### "Olá, meu nome é Felipe e sou Engenheiro de Dados com experiência em construção de pipelines, modelagem de dados e soluções de big data. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e abordagens para tornar os dados mais acessíveis e estratégicos para as empresas.
+
+Tenho experiência com Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, Power BI, e gosto de estudar e testar soluções modernas, como arquiteturas serverless, data lakes e machine learning pipelines. Meu objetivo é transformar dados complexos em insights acionáveis, garantindo qualidade, escalabilidade e inovação em todos os projetos que participo.
+
+Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro de Dados está em unir curiosidade tecnológica com visão de negócio, sempre buscando novas formas de resolver problemas e gerar valor a partir dos dados."
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" />
 
