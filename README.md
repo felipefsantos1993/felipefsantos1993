@@ -1,24 +1,24 @@
 ---
 
-# 👋 Olá! Eu sou Felipe.
+# Hello! I'm Felipe.
 
-## **Transformando Dados em Valor**
+## **Transforming Data into Business Value**
 
 ---
 
-### Sobre Mim
+### About Me
 
-"Olá, meu nome é Felipe e sou Engenheiro de Dados com experiência em construção de pipelines, modelagem de dados e soluções de big data. Sou apaixonado por tecnologia e estou sempre explorando novas ferramentas e abordagens para tornar os dados mais acessíveis e estratégicos para as empresas.
+"Hello, my name is Felipe, and I am a Data Engineer with experience in building data pipelines, data modeling, and big data solutions. I am passionate about technology and constantly exploring new tools and approaches to make data more accessible and strategic for businesses.
 
-Tenho experiência com Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, Power BI, e gosto de estudar e testar soluções modernas, como arquiteturas serverless, data lakes e machine learning pipelines. Meu objetivo é transformar dados complexos em insights acionáveis, garantindo qualidade, escalabilidade e inovação em todos os projetos que participo.
+I have experience with Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, and Power BI. I also enjoy studying and experimenting with modern solutions such as serverless architectures, data lakes, and machine learning pipelines. My goal is to transform complex data into actionable insights while ensuring quality, scalability, and innovation in every project I contribute to.
 
-Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro de Dados está em unir curiosidade tecnológica com visão de negócio, sempre buscando novas formas de resolver problemas e gerar valor a partir dos dados."
+More than processes and pipelines, I believe that what sets a Data Engineer apart is the ability to combine technological curiosity with business vision, continuously seeking new ways to solve problems and create value through data."
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" />
 
 ---
 
-### Tecnologias & Ferramentas
+### Tools & Frameworks
 
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> <img width="48" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> <img width="48" height="48" alt="databricks-icon-logo-png_seeklogo-611588 (1)" src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img width="48" height="48" alt="mongo (1)" src="https://github.com/user-attachments/assets/0421c7f6-aadf-4bab-b565-eb3fbb1e9c01" />
 
@@ -27,7 +27,7 @@ Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro d
 
 ---
 
-### Certificações Conquistadas Até o Momento... <p align="center">
+### Certifications gained until now... <p align="center">
 
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80" alt="animation"/>
 </p>
@@ -40,13 +40,13 @@ Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro d
 
 ---
 
-### Projetos & Conteúdos
+### Projects
 
-✨ Pipelines de dados com Spark e Airflow  
-✨ Processos ETL/ELT na Azure e AWS  
-✨ Análises avançadas com PySpark  
-✨ Dashboards interativos Power BI  
-✨ Automação e integração via APIs
+- Pipelines de dados com Spark e Airflow  
+- Processos ETL/ELT na Azure e AWS  
+- Análises avançadas com PySpark  
+- Dashboards interativos Power BI  
+- Automação e integração via APIs
 
 ---
 
@@ -62,7 +62,7 @@ Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro d
 
 ---
 
-### Vamos nos conectar?
+### Let's keep in touch?
 
 <p>
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
@@ -72,6 +72,6 @@ Mais do que processos e pipelines, acredito que o diferencial de um Engenheiro d
 
 ---
 
-> 💡 *"Dados são o novo petróleo — mas precisam ser refinados para gerar valor."*
+> *"Building data platforms that enable better decisions."*
 
 ---
