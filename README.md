@@ -14,8 +14,6 @@ I have experience with Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, and
 
 More than processes and pipelines, I believe that what sets a Data Engineer apart is the ability to combine technological curiosity with business vision, continuously seeking new ways to solve problems and create value through data."
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" /> <img src="https://github.com/felipefsantos1993/felipefsantos1993/assets/brain-ai.gif" width="500" />
-
 ---
 
 ### Tools & Frameworks
