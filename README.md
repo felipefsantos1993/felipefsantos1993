@@ -157,7 +157,12 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0D1117&color=00FFE0&line=00FFE0&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipefsantos1993&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFE0&text_color=FFFFFF&icon_color=00FFE0&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefsantos1993&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFE0&text_color=FFFFFF&icon_color=00FFE0&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -170,7 +175,7 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="56" height="56" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
   </a>
 </p>
 
