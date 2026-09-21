@@ -1,79 +1,184 @@
----
+# 👋 Hello! I'm Felipe
 
-# Hello! I'm Felipe.
+### Data Engineer | Data Platforms | Cloud & Big Data
 
-## **Transforming Data into Business Value**
-
----
-
-### About Me
-
-"Hello, my name is Felipe, and I am a Data Engineer with experience in building data pipelines, data modeling, and big data solutions. I am passionate about technology and constantly exploring new tools and approaches to make data more accessible and strategic for businesses.
-
-I have experience with Python, PySpark, SQL, Databricks, AWS/Azure, Airflow, and Power BI. I also enjoy studying and experimenting with modern solutions such as serverless architectures, data lakes, and machine learning pipelines. My goal is to transform complex data into actionable insights while ensuring quality, scalability, and innovation in every project I contribute to.
-
-More than processes and pipelines, I believe that what sets a Data Engineer apart is the ability to combine technological curiosity with business vision, continuously seeking new ways to solve problems and create value through data."
-
----
-
-### Tools & Frameworks
-
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" alt="Databricks" src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> &nbsp;&nbsp;
-<img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
----
-
-### Certifications gained until now... <p align="center">
-
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80" alt="animation"/>
-</p>
-
-<p>
-  <a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
-  <img width="200" height="200" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/6cfc9ba7-563e-4a27-ae38-0000dc071b10" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/felipefsantos1993" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
-
-### Projects
-
-- Data pipelines using Spark and Airflow
-- ETL/ELT processes on Azure and AWS
-- Advanced data analysis with PySpark
-- Interactive dashboards with Power BI
-- Automation and integration through APIs
+> **Transforming data into scalable solutions and business value.**
 
 ---
 
-### GitHub Stats & Atividades
+## 🚀 About Me
+
+I'm a **Data Engineer** focused on designing and building scalable data solutions, with experience across **data pipelines, ETL/ELT, data modeling, cloud platforms, and big data technologies**.
+
+My work combines **engineering practices, cloud technologies, and business understanding** to transform raw and complex data into reliable, accessible, and valuable information.
+
+I work primarily with:
+
+- ☁️ **Cloud:** Azure & AWS
+- 🧱 **Data Platforms:** Databricks, Delta Lake & Data Lakes
+- ⚡ **Big Data:** Apache Spark & PySpark
+- 🐍 **Programming:** Python & SQL
+- 🔄 **Orchestration:** Apache Airflow
+- 📊 **Analytics:** Power BI
+- 🐳 **DevOps & Infrastructure:** Docker, Terraform & Git
+
+I'm particularly interested in **modern data architectures, scalable pipelines, data quality, automation, cloud-native solutions, and continuous improvement**.
+
+> 💡 I believe great data engineering is not only about building pipelines — it's about building reliable foundations that enable better decisions.
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.databricks.com/" target="_blank">
+  <img width="48" height="48" src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318" alt="Databricks" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://spark.apache.org/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.python.org/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://airflow.apache.org/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.docker.com/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.terraform.io/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
+</a>
+
+</p>
+
+---
+
+## 🏗️ What I Build
+
+### 🔄 Data Engineering
+
+Design and development of reliable **ETL/ELT pipelines**, data ingestion processes, transformations, and integrations.
+
+### ☁️ Cloud Data Platforms
+
+Cloud-based data solutions using **Azure, AWS, Databricks, Data Lakes, and modern distributed architectures**.
+
+### ⚡ Big Data Processing
+
+Large-scale data processing and transformation using **Apache Spark and PySpark**.
+
+### 📊 Data & Analytics
+
+Data preparation, modeling, and integration with **Power BI** to support analytics and business decisions.
+
+### 🤖 Automation & Integration
+
+Automation of data workflows and integration with **APIs, external systems, and business applications**.
+
+### 🧩 Infrastructure & DevOps
+
+Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** to improve reliability and deployment processes.
+
+---
+
+## 📜 Certifications
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividades" />
+
+<a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
+  <img width="180" height="180" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/6cfc9ba7-563e-4a27-ae38-0000dc071b10" />
+</a>
+
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
----
-
-### Let's keep in touch?
-
-<p>
-  <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-    <img width="48" height="48" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
-  </a>
+<p align="center">
+  <i>Click the certification badge to verify the credential.</i>
 </p>
 
 ---
 
-> *"Building data platforms that enable better decisions."*
+## 🚀 Projects & Areas of Interest
+
+| Area | Technologies |
+|---|---|
+| **Data Engineering** | Python · PySpark · SQL · ETL · ELT |
+| **Data Platforms** | Databricks · Delta Lake · Data Lakes |
+| **Cloud** | Azure · AWS |
+| **Orchestration** | Apache Airflow |
+| **Analytics** | Power BI |
+| **Integration** | REST APIs · Data Ingestion |
+| **DevOps** | Git · Docker · Terraform · CI/CD |
+| **Architecture** | Medallion Architecture · Cloud Data Platforms |
 
 ---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
+  <img width="48" height="48" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
+</a>
+
+</p>
+
+I'm always interested in **data engineering, cloud platforms, modern data architectures, and opportunities to build solutions that turn data into business value.**
+
+---
+
+<p align="center">
+  <i>"Building data platforms that enable better decisions."</i>
+</p>
