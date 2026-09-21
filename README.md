@@ -1,21 +1,22 @@
-# 👋 Hello! I'm Felipe
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Platforms+%7C+Cloud+%7C+Big+Data;Transforming+Data+into+Business+Value" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFE0&height=120&section=header" alt="Header Animation" />
+</p>
+
+# Hello! I'm Felipe.
 
 ### Data Engineer | Data Platforms | Cloud & Big Data
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/felipefsantos1993" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipefsantos1993&style=flat-square&color=00ffe0&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-> **Transforming data into scalable solutions and business value.**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Data Engineer** focused on designing and building scalable data solutions, with experience across **data pipelines, ETL/ELT, data modeling, cloud platforms, and big data technologies**.
 
@@ -23,23 +24,23 @@ My work combines **engineering practices, cloud technologies, and business under
 
 I work primarily with:
 
-- ☁️ **Cloud:** Azure & AWS
-- 🧱 **Data Platforms:** Databricks, Delta Lake & Data Lakes
-- ⚡ **Big Data:** Apache Spark & PySpark
-- 🐍 **Programming:** Python & SQL
-- 🔄 **Orchestration:** Apache Airflow
-- 📊 **Analytics:** Power BI
-- 🐳 **DevOps & Infrastructure:** Docker, Terraform & Git
+- **Cloud:** Azure & AWS
+- **Data Platforms:** Databricks, Delta Lake & Data Lakes
+- **Big Data:** Apache Spark & PySpark
+- **Programming:** Python & SQL
+- **Orchestration:** Apache Airflow
+- **Analytics:** Power BI
+- **DevOps & Infrastructure:** Docker, Terraform & Git
 
 I'm particularly interested in **modern data architectures, scalable pipelines, data quality, automation, cloud-native solutions, and continuous improvement**.
 
-> 💡 I believe great data engineering is not only about building pipelines — it's about building reliable foundations that enable better decisions.
+> I believe great data engineering is not only about building pipelines — it's about building reliable foundations that enable better decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-<p align="left">
+<p align="center">
 
 <a href="https://azure.microsoft.com/" target="_blank">
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" />
@@ -94,35 +95,35 @@ I'm particularly interested in **modern data architectures, scalable pipelines, 
 
 ---
 
-## 🏗️ What I Build
+## What I Build
 
-### 🔄 Data Engineering
+### Data Engineering
 
 Design and development of reliable **ETL/ELT pipelines**, data ingestion processes, transformations, and integrations.
 
-### ☁️ Cloud Data Platforms
+### Cloud Data Platforms
 
 Cloud-based data solutions using **Azure, AWS, Databricks, Data Lakes, and modern distributed architectures**.
 
-### ⚡ Big Data Processing
+### Big Data Processing
 
 Large-scale data processing and transformation using **Apache Spark and PySpark**.
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 Data preparation, modeling, and integration with **Power BI** to support analytics and business decisions.
 
-### 🤖 Automation & Integration
+### Automation & Integration
 
 Automation of data workflows and integration with **APIs, external systems, and business applications**.
 
-### 🧩 Infrastructure & DevOps
+### Infrastructure & DevOps
 
 Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** to improve reliability and deployment processes.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p align="center">
 
@@ -138,7 +139,7 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 ---
 
-## 🚀 Projects & Areas of Interest
+## Projects & Areas of Interest
 
 | Area | Technologies |
 |---|---|
@@ -153,7 +154,7 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0d1117&color=00ffe0&line=00ffe0&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -165,20 +166,18 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-  <img width="48" height="48" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
-</a>
-
-</p>
-
-I'm always interested in **data engineering, cloud platforms, modern data architectures, and opportunities to build solutions that turn data into business value.**
-
----
+## Let's Connect
 
 <p align="center">
-  <i>"Building data platforms that enable better decisions."</i>
+  <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Interested in data engineering, cloud platforms, modern data architectures, and building solutions that turn data into business value.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:0D1117&height=100&section=footer" alt="Footer Animation" />
 </p>
