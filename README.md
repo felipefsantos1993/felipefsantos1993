@@ -10,10 +10,6 @@
 
 ### Data Engineer | Data Platforms | Cloud & Big Data
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipefsantos1993&style=flat-square&color=00ffe0&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 ---
 
 ## About Me
