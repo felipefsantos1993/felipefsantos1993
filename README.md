@@ -156,9 +156,6 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 ## GitHub Activity
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefsantos1993&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFE0&text_color=FFFFFF&icon_color=00FFE0&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
