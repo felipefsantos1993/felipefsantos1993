@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Platforms+%7C+Cloud+%7C+Big+Data;Transforming+Data+into+Business+Value" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Felipe+Firmino+Santos;Data+Engineer;Transforming+Data+into+Business+Value" alt="Typing Animation" />
 </p>
 
 <p align="center">
