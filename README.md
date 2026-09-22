@@ -156,12 +156,6 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipefsantos1993&bg_color=0D1117&color=00FFE0&line=00FFE0&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipefsantos1993&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFE0&text_color=FFFFFF&icon_color=00FFE0&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefsantos1993&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFE0&text_color=FFFFFF&icon_color=00FFE0&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
