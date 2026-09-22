@@ -1,14 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Platforms+%7C+Cloud+%7C+Big+Data;Transforming+Data+into+Business+Value" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Data+Engineer;Data+Platforms+%7C+Cloud+%7C+Big+Data;Transforming+Data+into+Business+Value"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFE0&height=120&section=header" alt="Header Animation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFE0&height=120&section=header"
+    alt="Header"
+  />
 </p>
 
 # Hello! I'm Felipe.
 
 ### Data Engineer | Data Platforms | Cloud & Big Data
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=felipefsantos1993&style=flat-square&color=00ffe0&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
@@ -39,52 +52,102 @@ I'm particularly interested in **modern data architectures, scalable pipelines, 
 <p align="center">
 
 <a href="https://azure.microsoft.com/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+    alt="Microsoft Azure"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.databricks.com/" target="_blank">
-  <img width="48" height="48" src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318" alt="Databricks" />
+  <img
+    width="48"
+    height="48"
+    src="https://github.com/user-attachments/assets/4cda66e8-158e-4b49-a5d7-dad733ceb318"
+    alt="Databricks"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://spark.apache.org/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
+    alt="Apache Spark"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.python.org/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    alt="Python"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://airflow.apache.org/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
+    alt="Apache Airflow"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    alt="Amazon Web Services"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.docker.com/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    alt="Docker"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.terraform.io/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
+    alt="Terraform"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.microsoft.com/sql-server" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    alt="SQL Server"
+  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://git-scm.com/" target="_blank">
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
+  <img
+    width="48"
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    alt="Git"
+  />
 </a>
 
 </p>
@@ -123,8 +186,16 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 <p align="center">
 
-<a href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW" target="_blank">
-  <img width="180" height="180" alt="Databricks Fundamentals" src="https://github.com/user-attachments/assets/6cfc9ba7-563e-4a27-ae38-0000dc071b10" />
+<a
+  href="https://credentials.databricks.com/d37f09a7-8312-46db-9df4-0ebde8b3b4d6#acc.Lu3RFDcW"
+  target="_blank"
+>
+  <img
+    width="180"
+    height="180"
+    alt="Databricks Fundamentals"
+    src="https://github.com/user-attachments/assets/6cfc9ba7-563e-4a27-ae38-0000dc071b10"
+  />
 </a>
 
 </p>
@@ -149,6 +220,13 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 | **Architecture** | Medallion Architecture · Cloud Data Platforms |
 
 ---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=00FFE0&height=2&width=900"
+    alt="Section Separator"
+  />
+</p>
 
 ## GitHub Activity
 
@@ -180,14 +258,25 @@ Use of **Docker, Terraform, Git, CI/CD, and infrastructure-as-code practices** t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ffs-data-eng/" target="_blank">
-    <img width="56" height="56" alt="LinkedIn" src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e" />
+    <img
+      width="56"
+      height="56"
+      alt="LinkedIn"
+      src="https://github.com/user-attachments/assets/d08fe80c-545f-4f16-ba35-2e65ac1dd71e"
+    />
   </a>
 </p>
 
 <p align="center">
-  <i>Interested in data engineering, cloud platforms, modern data architectures, and building solutions that turn data into business value.</i>
+  <i>
+    Interested in data engineering, cloud platforms, modern data architectures,
+    and building solutions that turn data into business value.
+  </i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:0D1117&height=100&section=footer" alt="Footer Animation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:0D1117&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
